@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Hamza Wattari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+ <h1 align="center">Hi, I'm Hamza Wattari 👋</h1>
 
 <h4 align="center">
-  Frontend Developer with 2.5+ years of experience based in Turkey 🇹🇷<br/>
-  Passionate about building performant, scalable web applications and crafting exceptional user experiences.
+  Full-Stack Developer based in Turkey 🇹🇷<br/>
+  Building performant, scalable web applications and crafting exceptional user experiences.
 </h4>
 
 <br/>
